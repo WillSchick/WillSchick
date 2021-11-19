@@ -1,15 +1,16 @@
 Hello! My name is Will Schick
 
-Currently enrolled at Drexel, where I am working towards a masters in Computer Science.
-This semester I am taking:
+Currently enrolled at Drexel, where I am working towards a Masters in Computer Science.
 
-CS550: Programming Languages
+This quarter I am enrolled in:
+
+CS575: High Performance Computing
 
 and...
 
-SE 557: Software Architecture
+SE 575: Software Design
 
-You can reach me at: Willsch108@gmail.com
+You can reach me at: WillSch108@gmail.com
 or at my Drexel email: ws453@drexel.edu
 
 <!---
